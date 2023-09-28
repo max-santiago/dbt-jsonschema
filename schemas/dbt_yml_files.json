@@ -30,6 +30,9 @@
                   },
                   "data_type": {
                     "type": "string"
+                  },
+                  "mode": {
+                    "type": "string"
                   }
                 },
                 "additionalProperties": false
